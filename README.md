@@ -8,7 +8,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -21,7 +20,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a> -->
 
-  <h3 align="center">UnrealHome</h3>
+  <h1 align="center">Unreal Home</h1>
 
   <p align="center">
     Playback of human daily basis interactions in virtual environments for synthetic datasets generation.
@@ -63,6 +62,22 @@ in virtual environments.
 It was developed in collaboration with the 3D Perception Lab (3DPL) 
 group from the Department of Information Technology and Computing (DTIC) 
 of the University of Alicante.
+
+This software is composed of two types of actors (Avatars and Objects), which 
+are directly involved in the execution of the simulations, and a total of three 
+components or subsystems responsible for carrying out all the necessary threads 
+that ensure the correct behavior of UnrealHome’s internal logic.
+
+These threads include the playback and interpolation of animations managed by the 
+animation subsystem, the movement of the avatars through the scene carried out by 
+the navigation and pathfinding subsystem, and the grabs of objects made by the avatars 
+which are managed by the grip subsystem.
+
+Finally, this project has also sought to ensure that the generation of visual synthetic 
+datasets becomes more interactive and intuitive. Therefore, UnrealHome makes it possible 
+to use Point and Click mechanics in real time during the simulations with the aim of sending 
+instructions to the avatars of the scene so that they carry out new interactions defined by 
+said instructions.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -109,7 +124,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-César Moltó Morilla - [cesarmolto.github.io](https://cesarmolto.github.io) - [@CeMolto](https://twitter.com/CeMolto) - cmoltomorilla@gmail.com
+César Moltó Morilla - [https://cesarmolto.github.io](https://cesarmolto.github.io) - [@CeMolto](https://twitter.com/CeMolto) - cmoltomorilla@gmail.com
 
 Project Link: [https://github.com/3dperceptionlab/unrealhome](https://github.com/3dperceptionlab/unrealhome)
 
