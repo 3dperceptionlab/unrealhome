@@ -23,7 +23,7 @@
   <h1 align="center">Unreal Home</h1>
 
   <p align="center">
-    Playback of human daily basis interactions in virtual environments for synthetic datasets generation.
+    Playback of human daily basis interactions in virtual environments for generation of synthetic datasets
     <br />
     <a href="https://github.com/3dperceptionlab/unrealhome/issues">Report Bug</a>
     ·
@@ -36,12 +36,8 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#made-with">Made With</a></li>
-      </ul>
-    </li>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#made-with">Made With</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -82,9 +78,9 @@ said instructions.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MADE WITH -->
-### Made With
+## Made With
 
-List of major software and tools used in the development of this project:
+List of major tools used in the development of this project:
 
 * [Unreal Engine 4](https://www.unrealengine.com)
 * [Axis Neuron](https://neuronmocap.com)
@@ -94,7 +90,7 @@ List of major software and tools used in the development of this project:
 
 
 <!-- USAGE -->
-### Usage
+## Usage
 
 <!-- 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
