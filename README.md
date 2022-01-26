@@ -142,16 +142,7 @@ Project Link: [https://github.com/3dperceptionlab/unrealhome](https://github.com
 <!-- RESOURCES AND REFERENCES -->
 ## Resources And References
 
-Please refer to the [Documentation](https://github.com/3dperceptionlab/unrealhome/blob/main/Documentation%20(Spanish%20Only).pdf) (Pages 59 and 60).
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search) -->
+Please refer to the [Documentation Bibliography](https://github.com/3dperceptionlab/unrealhome/blob/main/Documentation%20(Spanish%20Only).pdf) (Pages 59 and 60).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
