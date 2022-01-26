@@ -97,7 +97,7 @@ List of major tools used in the development of this project:
 
 1. Download the Unreal Engine 4.24 repository as a ZIP file from [https://github.com/EpicGames/UnrealEngine/tree/4.24](https://github.com/EpicGames/UnrealEngine/tree/4.24)
 
-2. Extend Unreal Engine 4.24 source code as per [Documentation](/"Documentation (Spanish Only)") anexus (Page 61 to 64) and recompile
+2. Extend Unreal Engine 4.24 source code as per [Documentation](https://github.com/3dperceptionlab/unrealhome/blob/main/Documentation%20(Spanish%20Only).pdf) Appendix 1 (Page 61 to 64) and recompile
 
 3. Run extended Unreal Engine 4.24 source code
 
