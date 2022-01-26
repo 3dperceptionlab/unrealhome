@@ -95,19 +95,17 @@ List of major tools used in the development of this project:
 <!-- USAGE -->
 ## Usage
 
-<!-- 1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Download the Unreal Engine 4.24 repository as a ZIP file from [https://github.com/EpicGames/UnrealEngine/tree/4.24](https://github.com/EpicGames/UnrealEngine/tree/4.24)
+
+2. Extend Unreal Engine 4.24 source code as per [Documentation](/"Documentation (Spanish Only)") anexus (Page 61 to 64) and recompile
+
+3. Run extended Unreal Engine 4.24 source code
+
+4. Clone Unreal Home repository
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/3dperceptionlab/unrealhome
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ``` -->
+5. Open Unreal Home project from the extended Unreal Engine 4.24 editor window
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
