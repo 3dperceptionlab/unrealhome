@@ -48,7 +48,7 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#resources-and-references">Resources And References</a></li>
   </ol>
 </details>
 
@@ -56,7 +56,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-cover]](https://cesarmolto.github.io/unreal-home.html)
+[![Product Name Screen Shot][product-cover]]
 
 Unreal Home is a simulation platform designed to carry out the generation 
 of photorealistic synthetic datasets of human daily basis interactions 
@@ -99,9 +99,9 @@ List of major tools used in the development of this project:
 <!-- USAGE -->
 ## Usage
 
-1. Download the Unreal Engine 4.24 repository as a ZIP file from [https://github.com/EpicGames/UnrealEngine/tree/4.24](https://github.com/EpicGames/UnrealEngine/tree/4.24)
+1. Download the [Unreal Engine 4.24 branch repository](https://github.com/EpicGames/UnrealEngine/tree/4.24) as a ZIP file
 
-2. Extend Unreal Engine 4.24 source code as per [Documentation](https://github.com/3dperceptionlab/unrealhome/blob/main/Documentation%20(Spanish%20Only).pdf) Appendix 1 (Page 61 to 64) and recompile
+2. Extend Unreal Engine 4.24 source code as per [Documentation Appendix 1](https://github.com/3dperceptionlab/unrealhome/blob/main/Documentation%20(Spanish%20Only).pdf) (Page 61 to 64) and recompile
 
 3. Run extended Unreal Engine 4.24 source code
 
@@ -131,7 +131,7 @@ If you have a suggestion that would make Unreal Home better, please fork the rep
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/3dperceptionlab/unrealhome/blob/main/LICENSE.txt) for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -146,8 +146,8 @@ Project Link: [https://github.com/3dperceptionlab/unrealhome](https://github.com
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+<!-- RESOURCES AND REFERENCES -->
+## Resources And References
 
 <!-- Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
@@ -170,7 +170,7 @@ Project Link: [https://github.com/3dperceptionlab/unrealhome](https://github.com
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/3dperceptionlab/unrealhome/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: hhttps://github.com/3dperceptionlab/unrealhome/stargazers
+[stars-url]: https://github.com/3dperceptionlab/unrealhome/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/3dperceptionlab/unrealhome/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
