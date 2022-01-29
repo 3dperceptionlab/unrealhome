@@ -80,7 +80,7 @@ said instructions.
 <!-- MADE WITH -->
 ## Made With
 
-List of major tools used in the development of this project.
+List of major tools and technologies used in the development of this project.
 
 * [Unreal Engine 4](https://www.unrealengine.com)
 * [Axis Neuron](https://neuronmocap.com)
